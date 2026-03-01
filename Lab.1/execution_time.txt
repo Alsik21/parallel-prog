@@ -1,0 +1,4 @@
+C++ time: 1.000 ms
+Python time: 0.978 ms
+Results match: True
+Python is 1.02x faster

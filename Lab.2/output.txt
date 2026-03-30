@@ -1,0 +1,119 @@
+Duration: 8ms
+Threads: 1
+Correct: 1
+Count of matrix elements: 40000
+
+Duration: 22ms
+Threads: 2
+Correct: 1
+Count of matrix elements: 40000
+
+Duration: 12ms
+Threads: 4
+Correct: 1
+Count of matrix elements: 40000
+
+Duration: 11ms
+Threads: 8
+Correct: 1
+Count of matrix elements: 40000
+
+Duration: 79ms
+Threads: 1
+Correct: 1
+Count of matrix elements: 160000
+
+Duration: 40ms
+Threads: 2
+Correct: 1
+Count of matrix elements: 160000
+
+Duration: 33ms
+Threads: 4
+Correct: 1
+Count of matrix elements: 160000
+
+Duration: 26ms
+Threads: 8
+Correct: 1
+Count of matrix elements: 160000
+
+Duration: 784ms
+Threads: 1
+Correct: 1
+Count of matrix elements: 640000
+
+Duration: 489ms
+Threads: 2
+Correct: 1
+Count of matrix elements: 640000
+
+Duration: 241ms
+Threads: 4
+Correct: 1
+Count of matrix elements: 640000
+
+Duration: 210ms
+Threads: 8
+Correct: 1
+Count of matrix elements: 640000
+
+Duration: 3101ms
+Threads: 1
+Correct: 1
+Count of matrix elements: 1440000
+
+Duration: 1533ms
+Threads: 2
+Correct: 1
+Count of matrix elements: 1440000
+
+Duration: 944ms
+Threads: 4
+Correct: 1
+Count of matrix elements: 1440000
+
+Duration: 689ms
+Threads: 8
+Correct: 1
+Count of matrix elements: 1440000
+
+Duration: 7625ms
+Threads: 1
+Correct: 1
+Count of matrix elements: 2560000
+
+Duration: 3921ms
+Threads: 2
+Correct: 1
+Count of matrix elements: 2560000
+
+Duration: 2479ms
+Threads: 4
+Correct: 1
+Count of matrix elements: 2560000
+
+Duration: 1991ms
+Threads: 8
+Correct: 1
+Count of matrix elements: 2560000
+
+Duration: 14645ms
+Threads: 1
+Correct: 1
+Count of matrix elements: 4000000
+
+Duration: 7661ms
+Threads: 2
+Correct: 1
+Count of matrix elements: 4000000
+
+Duration: 5086ms
+Threads: 4
+Correct: 1
+Count of matrix elements: 4000000
+
+Duration: 3926ms
+Threads: 8
+Correct: 1
+Count of matrix elements: 4000000

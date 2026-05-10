@@ -1,0 +1,8 @@
+#!/bin/bash
+#SBATCH --job-name=matMulMPI
+#SBATCH --time=0:05:00
+#SBATCH --ntasks-per-node=16
+#SBATCH --partition batch
+
+module load intel/mpi4
+mpirun -r ssh ./lab3
